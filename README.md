@@ -11,6 +11,7 @@ Welcome to my Power BI Projects repository! This folder showcases my key project
 - Visualizations for Total Sales, Profit Margins,Regional Performance and Top N Products,Customers By sales
 - Drill-through capabilities for deeper insights
 - Interactive dashboards for enhanced user experience
+- Data Sorce : SQL Server
 - ![image](https://github.com/user-attachments/assets/73a8d761-6643-4547-b1e8-8c4d2eb68267)
 
 
